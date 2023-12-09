@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "chaulong",
+      "email": "",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "admin",
+      "email": "",
+      "password": "admin"
+    },
+    {
+      "username": "long",
+      "email": "long@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "hana",
+      "password": "hana",
+      "email": "hana@gmail.com",
+      "id": 5
+    },
+    {
+      "username": "longdeptrai",
+      "password": "longdeptrai",
+      "email": "long@gmail.com",
+      "id": 6
+    }
+  ]
+}
